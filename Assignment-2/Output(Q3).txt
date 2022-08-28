@@ -1,0 +1,7 @@
+OUTPUT : 
+The rms distance for random walk of 300 steps is : 0.8058007888528271
+The net displacement for random walk of 300 steps is : 12.758506995439845
+The rms distance for random walk of 600 steps is : 0.8125854505635339
+The net displacement for random walk of 600 steps is : 3.868519332122521
+The rms distance for random walk of 900 steps is : 0.8160885014447286
+The net displacement for random walk of 900 steps is : 9.109088090006546
