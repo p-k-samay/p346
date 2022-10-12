@@ -34,3 +34,5 @@ x3 = 0.904494382022472
 x4 = 0.7078651685393258
 x5 = 0.8314606741573034
 x6 = 0.9339887640449438
+
+we got different solutions using cholesky and gauss seidel method.Both satisfies the given linear equations.
