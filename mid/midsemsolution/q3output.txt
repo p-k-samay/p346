@@ -1,0 +1,8 @@
+The solution of the given linear equations using Gauss-Seidel method is :
+
+x1 = 1.5
+x2 = -0.5
+x3 = 2.0
+x4 = -2.5
+x5 = 1.0
+x6 = -1.0
